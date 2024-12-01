@@ -15,3 +15,6 @@ The **Keyword Phrase Optimization Assistant** is a Python-based tool designed to
    ```bash
    git clone https://github.com/username/keyword-optimization-assistant.git
    cd keyword-optimization-assistant
+In this update, the URL is now formatted as a clickable link like this: **[Keyword Phrases: Importance & Optimization Tips](https://seo4one.com/keyword-research/keyword-phrases-importance-optimization-tips)**. 
+
+Let me know if you need further adjustments!
